@@ -23,9 +23,6 @@ const Landing = () => (
             </Link>
           </div>
         </div>
-        <div className="d-none d-lg-block">
-          <a target="_blank" rel="noopener noreferrer" href="https://www.media.mit.edu/groups/civic-media/overview/"><img className="landing-civic-logo landing-sidebar-civic-logo" alt="Civic Media Logo" src="images/civic-media-logo-white.png" /></a>
-        </div>
       </div>
       <div className="col-lg-8 order-lg-0">
         <div className="row landing-cards">
@@ -56,11 +53,6 @@ const Landing = () => (
               description={COPY.perspective.description}
               colorClass="card-purple"
             />
-          </div>
-        </div>
-        <div className="row text-center">
-          <div className="col-lg-12 d-none d-sm-block d-xs-block d-md-none">
-            <a target="_blank" rel="noopener noreferrer" href="https://www.media.mit.edu/groups/civic-media/overview/"><img className="landing-civic-logo" alt="Civic Media Logo" src="images/civic-media-logo-white.png" /></a>
           </div>
         </div>
       </div>

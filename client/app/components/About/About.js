@@ -36,11 +36,11 @@ const About = (props) => {
             <p>
               Gobo is an experiment, not a startup. We’re building it to change the conversation on social
               media and imagine a better version of it. This is a technology-to-think-with -- a tool we want
-              you to play with and push against. Gobo is being built by a small team at <a href="https://www.media.mit.edu/groups/civic-media/overview/" target="_blank" rel="noopener noreferrer">MIT Media Lab's Center for Civic Media</a>,
+              you to play with and push against. Gobo was built by a small team at <a href="https://www.media.mit.edu/groups/civic-media/overview/" target="_blank" rel="noopener noreferrer">MIT Media Lab's Center for Civic Media</a>,
               where we work on technologies for social change. You can learn more about Gobo and why we built it in our FAQ.
             </p>
             <p>
-              For questions, feedback, and musings, you can reach the Gobo team at <a href="mailto:gobo@media.mit.edu">gobo@media.mit.edu</a>.
+              For questions, feedback, and musings, you can reach the Gobo team at <a href="mailto:info@gobo.social">info@gobo.social</a>.
             </p>
 
             <p>{VERSION}</p>
@@ -122,8 +122,6 @@ const About = (props) => {
               <li>Dennis Jen, Lead Developer</li>
               <li>Anna Chung, Researcher/Designer</li>
               <li>Alexis Hope, Designer</li>
-              <li>Belén Carolina Saldías Fuentes, Machine Learning Researchers/System Designer</li>
-              <li>Neil Gaikwad, Machine Learning Researchers/System Designer</li>
               <li>Jasmin Rubinovitz, Past Developer</li>
             </ul>
           </div>
